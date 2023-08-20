@@ -20,8 +20,6 @@ Are you in search of a software engineering virtuoso who brings a wealth of expe
 
 🛒 E-commerce Magic: Transform your online store into a cutting-edge, headless commerce powerhouse with my expertise in Unchained Commerce and other e-commerce solutions.
 
-📚 Bootcamp Masterclasses: Elevate your team's skills with bespoke workshops and mentorship, tailored to your specific software engineering needs.
-
 🔗 Blockchain Brilliance: Dive into the world of blockchain and Ethereum with solutions that leverage the power of decentralized technologies.
 
 💼 Let's Collaborate:
